@@ -1,0 +1,3313 @@
+{
+  "measurements": [
+    {
+      "sample_id": "sample_000",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": null,
+      "status": "below_limit",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_000",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": null,
+      "status": "below_limit",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_000",
+      "method": "old",
+      "replicate": 3,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": null,
+      "status": "below_limit",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_000",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": null,
+      "status": "below_limit",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_000",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": null,
+      "status": "below_limit",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_000",
+      "method": "new_a",
+      "replicate": 3,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": null,
+      "status": "below_limit",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_000",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": null,
+      "status": "below_limit",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_000",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": null,
+      "status": "below_limit",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_000",
+      "method": "new_b",
+      "replicate": 3,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": null,
+      "status": "below_limit",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_001",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 3.2025,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_001",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 2.296,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_001",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 3.0454,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_001",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": null,
+      "status": "below_limit",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_001",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 3.3328,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_001",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": null,
+      "status": "below_limit",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_002",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 4.71,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_002",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 3.6825,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_002",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 3.7895,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_002",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 3.8509,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_002",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 3.6756,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_002",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 6.3092,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_003",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 5.0795,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_003",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 4.2739,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_003",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 6.4052,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_003",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 7.0582,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_003",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 6.8395,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_003",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 5.236,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_004",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 8.403,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_004",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 8.2791,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_004",
+      "method": "old",
+      "replicate": 3,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 8.547,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_004",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 7.9542,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_004",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 8.5061,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_004",
+      "method": "new_a",
+      "replicate": 3,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 8.4824,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_004",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 5.4199,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_004",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 6.0504,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_004",
+      "method": "new_b",
+      "replicate": 3,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 7.8918,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_005",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 7.3804,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_005",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 9.1295,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_005",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 10.2587,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_005",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 11.3666,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_005",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 11.0269,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_005",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 10.0861,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_006",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 12.4042,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_006",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 11.6662,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_006",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 11.0521,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_006",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 11.177,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_006",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 12.0052,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_006",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 10.0583,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_007",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 12.5474,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_007",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 13.6024,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_007",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 13.3208,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_007",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 14.5448,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_007",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 11.3794,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_007",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 11.1997,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_008",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 14.2459,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_008",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 13.5151,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_008",
+      "method": "old",
+      "replicate": 3,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 12.8054,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_008",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 17.3255,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_008",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 13.7493,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_008",
+      "method": "new_a",
+      "replicate": 3,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 11.3051,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_008",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 14.107,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_008",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 16.2044,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_008",
+      "method": "new_b",
+      "replicate": 3,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 16.3368,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_009",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 16.4755,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_009",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 16.6473,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_009",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 16.314,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_009",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 17.7842,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_009",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 14.4518,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_009",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 17.5564,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_010",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 16.1536,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_010",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 16.6752,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_010",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 17.2076,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_010",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 17.7483,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_010",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 19.5551,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_010",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 18.3915,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_011",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 20.6855,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_011",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 19.863,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_011",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 19.362,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_011",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 20.815,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_011",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 20.8659,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_011",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 20.5529,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_012",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 21.4323,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_012",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 20.3394,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_012",
+      "method": "old",
+      "replicate": 3,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 20.7735,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_012",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 21.8295,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_012",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 22.7719,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_012",
+      "method": "new_a",
+      "replicate": 3,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 22.5834,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_012",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 18.4452,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_012",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 20.9406,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_012",
+      "method": "new_b",
+      "replicate": 3,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 21.4595,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_013",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 22.8867,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_013",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 21.9536,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_013",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 23.5474,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_013",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 25.0362,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_013",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 22.5144,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_013",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 24.6514,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_014",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 23.2577,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_014",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 25.3656,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_014",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 22.7661,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_014",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 26.2516,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_014",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 27.34,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_014",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 25.05,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_015",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 24.8448,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_015",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 25.8682,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_015",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 27.9675,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_015",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 26.4173,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_015",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 24.7735,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_015",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 25.0458,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_016",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 30.2223,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_016",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 27.8008,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_016",
+      "method": "old",
+      "replicate": 3,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 27.7589,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_016",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 25.5165,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_016",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 25.3878,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_016",
+      "method": "new_a",
+      "replicate": 3,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 28.3085,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_016",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 27.3665,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_016",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 28.93,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_016",
+      "method": "new_b",
+      "replicate": 3,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 30.7654,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_017",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 31.2835,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_017",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 30.3823,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_017",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 30.5728,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_017",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 32.7202,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_017",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 29.4912,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_017",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 30.3681,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_018",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 31.0637,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_018",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 31.2566,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_018",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 34.4474,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_018",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 32.6652,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_018",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 34.0701,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_018",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 30.7248,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_019",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 31.5069,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_019",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 33.667,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_019",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 37.4142,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_019",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 32.6211,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_019",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 33.1035,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_019",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 34.5554,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_020",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 33.5884,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_020",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 37.6017,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_020",
+      "method": "old",
+      "replicate": 3,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 34.5865,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_020",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 37.511,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_020",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 36.3357,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_020",
+      "method": "new_a",
+      "replicate": 3,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 35.5149,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_020",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 37.0652,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_020",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 34.9687,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_020",
+      "method": "new_b",
+      "replicate": 3,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 36.5162,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_021",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 40.2586,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_021",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 37.1286,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_021",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 36.3441,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_021",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 34.4747,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_021",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 36.0517,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_021",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 36.9507,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_022",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 38.2021,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_022",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 39.6446,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_022",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 38.2575,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_022",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 41.17,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_022",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 36.986,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_022",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 36.7444,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_023",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 40.328,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_023",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 39.3954,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_023",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 43.1897,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_023",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 40.4292,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_023",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 37.9796,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_023",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 41.9406,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_024",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 39.73,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_024",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 39.0953,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_024",
+      "method": "old",
+      "replicate": 3,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 39.6479,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_024",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 41.0728,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_024",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 43.5234,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_024",
+      "method": "new_a",
+      "replicate": 3,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 43.5689,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_024",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 41.988,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_024",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 43.4256,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_024",
+      "method": "new_b",
+      "replicate": 3,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 39.3897,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_025",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 43.0568,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_025",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 43.0856,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_025",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 40.94,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_025",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 43.4801,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_025",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 44.7886,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_025",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 41.8251,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_026",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 43.6486,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_026",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 42.8868,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_026",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 50.4224,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_026",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 48.5197,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_026",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 44.8758,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_026",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 46.9897,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_027",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 49.1688,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_027",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 48.5888,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_027",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 48.3285,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_027",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 47.686,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_027",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 47.769,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_027",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 47.2161,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_028",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 45.7072,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_028",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 50.7775,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_028",
+      "method": "old",
+      "replicate": 3,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 46.5431,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_028",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 51.9105,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_028",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 49.0517,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_028",
+      "method": "new_a",
+      "replicate": 3,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 52.2076,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_028",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 49.2335,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_028",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 47.5588,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_028",
+      "method": "new_b",
+      "replicate": 3,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 51.518,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_029",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 49.1865,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_029",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 49.6788,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_029",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 50.7374,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_029",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 55.6922,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_029",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 51.4755,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_029",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 51.4035,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_030",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 51.0159,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_030",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 53.4322,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_030",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 50.4028,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_030",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 55.3169,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_030",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 48.103,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_030",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 51.8466,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_031",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 52.5412,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_031",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 54.9649,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_031",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 53.9692,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_031",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 56.164,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_031",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 53.8656,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_031",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 52.1928,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_032",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 54.3013,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_032",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 51.6082,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_032",
+      "method": "old",
+      "replicate": 3,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 56.6545,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_032",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 60.6963,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_032",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 54.8491,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_032",
+      "method": "new_a",
+      "replicate": 3,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 57.7327,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_032",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 54.7326,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_032",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 54.7711,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_032",
+      "method": "new_b",
+      "replicate": 3,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 55.2675,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_033",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 55.1943,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_033",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 57.9495,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_033",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 57.7971,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_033",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 56.9792,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_033",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 55.753,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_033",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 59.1331,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_034",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 61.9341,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_034",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 58.9473,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_034",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 62.648,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_034",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 61.1504,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_034",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 58.8679,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_034",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 58.0934,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_035",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 58.5903,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_035",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 60.5104,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_035",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 64.0743,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_035",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 63.9515,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_035",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 64.1417,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_035",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 61.0386,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_036",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 62.3556,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_036",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 65.5752,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_036",
+      "method": "old",
+      "replicate": 3,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 62.2007,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_036",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 64.0827,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_036",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 65.3343,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_036",
+      "method": "new_a",
+      "replicate": 3,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 65.572,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_036",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 60.4688,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_036",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 62.8712,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_036",
+      "method": "new_b",
+      "replicate": 3,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 66.1268,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_037",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 64.919,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_037",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 64.8423,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_037",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 65.3085,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_037",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 64.0186,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_037",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 64.0102,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_037",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 61.5832,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_038",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 64.4898,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_038",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 65.5382,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_038",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 70.2235,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_038",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 68.8751,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_038",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 65.3686,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_038",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 67.0183,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_039",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 68.299,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_039",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 67.2559,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_039",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 65.826,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_039",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 68.6444,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_039",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 69.3303,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_039",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 62.4284,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_040",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 64.4501,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_040",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 68.0748,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_040",
+      "method": "old",
+      "replicate": 3,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 66.7407,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_040",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 70.6527,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_040",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 70.6533,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_040",
+      "method": "new_a",
+      "replicate": 3,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 74.208,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_040",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 66.5878,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_040",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 71.5298,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_040",
+      "method": "new_b",
+      "replicate": 3,
+      "laboratory": "lab_1",
+      "lot": "lot_0",
+      "value": 67.3814,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_041",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 70.9793,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_041",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 67.7578,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_041",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 73.0283,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_041",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 70.8309,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_041",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 72.2158,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_041",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_1",
+      "value": 70.6671,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_042",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 75.6943,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_042",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 73.534,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_042",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 70.4419,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_042",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 72.4075,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_042",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 76.8226,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_042",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_0",
+      "value": 72.1376,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_043",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 72.5678,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_043",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 69.3646,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_043",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 75.2135,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_043",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 76.541,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_043",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 72.3442,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_043",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "lot_1",
+      "value": 77.6306,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_044",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 74.9649,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_044",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 72.8437,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_044",
+      "method": "old",
+      "replicate": 3,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 73.7601,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_044",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 77.3205,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_044",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 80.1649,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_044",
+      "method": "new_a",
+      "replicate": 3,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 79.9325,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_044",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 75.8068,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_044",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 74.6816,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_044",
+      "method": "new_b",
+      "replicate": 3,
+      "laboratory": "lab_2",
+      "lot": "lot_0",
+      "value": 72.9815,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_045",
+      "method": "old",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 75.0382,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_045",
+      "method": "old",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 76.581,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_045",
+      "method": "new_a",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 83.0196,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_045",
+      "method": "new_a",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 80.4647,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_045",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 78.4164,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_045",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "lot_1",
+      "value": 78.1029,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_046",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "late",
+      "value": 76.6348,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_046",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "late",
+      "value": 81.8447,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_047",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "late",
+      "value": 78.7505,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_047",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "late",
+      "value": 86.6665,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_048",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "late",
+      "value": 84.4244,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_048",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "late",
+      "value": 82.3985,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_048",
+      "method": "new_b",
+      "replicate": 3,
+      "laboratory": "lab_0",
+      "lot": "late",
+      "value": 84.3386,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_049",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "late",
+      "value": 84.191,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_049",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "late",
+      "value": 83.219,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_050",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "late",
+      "value": 90.1841,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_050",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "late",
+      "value": 89.0236,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_051",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_0",
+      "lot": "late",
+      "value": 87.6729,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_051",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_0",
+      "lot": "late",
+      "value": 87.0817,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_052",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_1",
+      "lot": "late",
+      "value": 92.7524,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_052",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_1",
+      "lot": "late",
+      "value": 90.0535,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_052",
+      "method": "new_b",
+      "replicate": 3,
+      "laboratory": "lab_1",
+      "lot": "late",
+      "value": 90.0723,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_053",
+      "method": "new_b",
+      "replicate": 1,
+      "laboratory": "lab_2",
+      "lot": "late",
+      "value": 96.3259,
+      "status": "measured",
+      "limit": 2
+    },
+    {
+      "sample_id": "sample_053",
+      "method": "new_b",
+      "replicate": 2,
+      "laboratory": "lab_2",
+      "lot": "late",
+      "value": 90.4788,
+      "status": "measured",
+      "limit": 2
+    }
+  ],
+  "limits": {
+    "absolute": 2,
+    "relative": 0.04
+  },
+  "methods": [
+    "old",
+    "new_a",
+    "new_b"
+  ]
+}

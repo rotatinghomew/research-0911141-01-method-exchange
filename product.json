@@ -1,0 +1,29 @@
+{
+  "name": "检测方法比较工作台",
+  "focus": "样品配对明细",
+  "options": [
+    [
+      "reference",
+      "沿用方法",
+      [
+        "old",
+        "new_a",
+        "new_b"
+      ]
+    ],
+    [
+      "candidate",
+      "候选方法",
+      [
+        "new_a",
+        "new_b",
+        "old"
+      ]
+    ]
+  ],
+  "selection": {
+    "reference": "old",
+    "candidate": "new_a"
+  },
+  "purpose": "本地研究资料浏览与复核记录"
+}

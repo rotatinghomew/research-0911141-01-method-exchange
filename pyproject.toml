@@ -1,0 +1,6 @@
+[project]
+name = "method-exchange"
+version = "0.3.0"
+description = "检测方法比较工作台"
+requires-python = ">=3.11"
+dependencies = []
