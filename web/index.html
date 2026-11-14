@@ -1,13 +1,26 @@
 <!doctype html>
 <html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>检测方法比较工作台</title><link rel="stylesheet" href="/style.css"></head>
-<body><header><span>教研数据 · 复核工作区</span><h1>检测方法比较工作台</h1><p>样品配对明细</p></header>
+<body><header><span>教研数据 · 复核工作区</span><h1>检测方法比较工作台</h1><p>样品配对明细与方法替换决策比较</p></header>
 <main><aside><h2>数据与范围</h2><label>数据版本<select id="revision"></select></label><div id="controls"></div>
-<button id="inspect">查看所选范围</button><label>导入完整数据<input id="upload" type="file" accept=".json,application/json"></label>
+<h2>业务容许误差</h2>
+<p class="hint" id="tolerance-formula">TEa(x) = 绝对误差 + 相对误差 × |参考方法读数|</p>
+<label>绝对容许误差（与读数同单位）<input id="tolerance-absolute" type="number" min="0" step="0.01"></label>
+<label>相对容许误差（0 至 1，如 0.04 = 4%）<input id="tolerance-relative" type="number" min="0" max="1" step="0.005"></label>
+<button id="inspect">应用选择与误差约定</button>
+<label>导入完整数据<input id="upload" type="file" accept=".json,application/json"></label>
 <button id="raw">查看原始记录</button><h2>分析记录</h2><label>记录名称<input id="title" value="本次复核"></label>
-<button id="save">保存当前描述</button><div id="archive"></div></aside>
+<button id="save">保存当前比较（含数据与误差约定）</button><div id="archive"></div></aside>
 <section><div id="status" role="status">正在读取本地数据…</div><div id="summary"></div>
+<h2>方法替换决策比较</h2><div id="policy-echo" class="hint"></div><div id="comparison-cards"></div>
+<canvas id="bias-chart" width="960" height="300" aria-label="偏差随量程变化与容许误差界限"></canvas>
+<div id="comparison-notes" class="notes"></div>
+<h3>按量程的偏差剖面与适用范围</h3><div class="table-wrap"><table id="profile-table"><thead></thead><tbody></tbody></table></div>
+<div id="applicable"></div>
+<h3>实验室与试剂批次差异</h3>
+<div class="table-wrap"><table id="group-table"><thead></thead><tbody></tbody></table></div>
+<h3>检出限与单方法限制</h3><div id="censored"></div>
 <h2>样品配对明细</h2><div id="notes"></div><canvas id="chart" width="960" height="300" aria-label="所选范围描述图"></canvas>
 <div class="table-wrap"><table><thead id="columns"></thead><tbody id="rows"></tbody></table></div>
 <h2 id="detail-heading">记录与依据</h2><pre id="details">点击记录行可查看详细字段。</pre><button id="export">导出当前记录</button>
-</section></main><footer>仅使用本地虚构记录；描述统计不替代研究设计与业务复核。</footer><script src="/app.js"></script></body></html>
+</section></main><footer>仅使用本地虚构记录；描述统计不替代研究设计与业务复核。保存的记录冻结数据版本与误差约定，不随后续导入变化。</footer><script src="/app.js"></script></body></html>

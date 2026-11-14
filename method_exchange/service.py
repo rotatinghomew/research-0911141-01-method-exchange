@@ -3,6 +3,7 @@ import json
 
 from .domain import explore, validate
 from .storage import Store, fingerprint
+from .comparison import normalize_policy
 
 
 class Workbench:
@@ -32,8 +33,14 @@ class Workbench:
         if not isinstance(selection, dict):
             raise ValueError("选择条件必须是对象")
         data = self.store.dataset(revision)
-        result = explore(data, selection)
-        return {"revision": revision, "selection": selection, "data_sha256": fingerprint(data), "view": result}
+        # 页面提交的误差约定随本次计算生效；保存时进入 selection 一并冻结，
+        # 重新打开旧记录不会被新数据自带的 limits 覆盖。
+        policy = normalize_policy(body.get("tolerance"), data)
+        frozen_selection = dict(selection)
+        frozen_selection["tolerance"] = {"absolute": policy["absolute"], "relative": policy["relative"]}
+        result = explore(data, selection, frozen_selection["tolerance"])
+        return {"revision": revision, "selection": frozen_selection,
+                "data_sha256": fingerprint(data), "view": result}
 
     def save(self, body):
         result = self.inspect(body)

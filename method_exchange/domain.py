@@ -1,8 +1,9 @@
-from collections import Counter, defaultdict
-from statistics import mean, median
+from collections import defaultdict
+from statistics import mean
 import math
 
-from .validation import require_tables, unique, finite, references
+from .validation import require_tables, unique, finite
+from .comparison import compare
 
 
 def validate(data):
@@ -16,9 +17,18 @@ def validate(data):
             finite(row["value"])
         elif row["value"] is not None:
             raise ValueError("低于检出限的记录不能包含精确读数")
+    limits = data.get("limits")
+    if limits is not None:
+        if not isinstance(limits, dict):
+            raise ValueError("容许误差 limits 必须是对象")
+        for key in ("absolute", "relative"):
+            if key in limits:
+                finite(limits[key], minimum=0)
+        if "relative" in limits and limits["relative"] > 1:
+            raise ValueError("相对容许误差不应超过 1（即 100%）")
 
 
-def explore(data, selection):
+def explore(data, selection, policy=None):
     reference = selection.get("reference", "old")
     candidate = selection.get("candidate", "new_a")
     if reference == candidate or reference not in data["methods"] or candidate not in data["methods"]:
@@ -42,7 +52,10 @@ def explore(data, selection):
                      "reference_n": len(left), "candidate_n": len(right),
                      "raw_difference": mean(right) - mean(left) if left and right else None})
     differences = [row["raw_difference"] for row in rows if row["raw_difference"] is not None]
+    comparison = compare(data, selection, policy)
     return {"summary": {"可定量样品": len(rows), "有定量配对": len(differences), "检出限记录": censored},
-            "rows": rows, "series": [{"label": row["sample_id"], "x": row["reference_mean"], "y": row["candidate_mean"]}
-                                      for row in rows if row["raw_difference"] is not None],
-            "notes": ["配对均值是原始读数描述，不代表方法互换性或一致性界限。", "没有精确读数的样品仍可从原始记录中核对。"]}
+            "rows": rows,
+            "series": [{"label": row["sample_id"], "x": row["reference_mean"], "y": row["candidate_mean"]}
+                       for row in rows if row["raw_difference"] is not None],
+            "comparison": comparison,
+            "notes": comparison["notes"]}
